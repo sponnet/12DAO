@@ -10,9 +10,12 @@ Create one DAO experiment each month troughout 2020
 - Deploy and learn
 
 ## Jan
-https://github.com/sponnet/12DAO/issues/1
+https://github.com/sponnet/12DAO/issues/1 - The NotaryBot
 
 ## Feb
+https://github.com/sponnet/12DAO/issues/2 - The Web Of Trust
+
+
 ## Mar
 ## Apr
 ## May
