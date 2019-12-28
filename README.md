@@ -17,7 +17,13 @@ https://github.com/sponnet/12DAO/issues/2 - The Web Of Trust
 
 
 ## Mar
+
+BlockTube - Decentralized video
+
 ## Apr
+
+D-Meme - Decentralized Meme video subtitle generator
+
 ## May
 ## Jun
 ## Jul
